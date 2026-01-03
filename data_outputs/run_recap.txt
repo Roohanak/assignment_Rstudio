@@ -1,0 +1,10 @@
+--- PCA quick take ---
+PC1 + PC2 cumulative variance ~ 95.8 %
+
+--- K-means quick take ---
+Chosen k: 3 
+
+--- Regression quick take ---
+R-squared (full model): 0.867 
+Note: VIFs saved as 'vif_full_model.csv' if 'car' was available;
+otherwise 'vif_numeric_manual.csv' (numeric-only) is provided.
